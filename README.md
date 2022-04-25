@@ -8,4 +8,5 @@
 - Jonah - Perceptron Model / Testing out .wav applications
 
 Overall, we worked collectively on most of the project as a whole (specifics of code are listed above). 
+
 (Model.ipynb is our main notebook for this project.)
